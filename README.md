@@ -17,7 +17,7 @@ A comprehensive collection of kubectl aliases for **PowerShell** and **CMD** tha
 
 ```cmd
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/kube-aliases.git D:\DevTools\kube-aliases
+git clone https://github.com/cantrellr/kube-aliases.git D:\DevTools\kube-aliases
 
 # Run the installer (as Administrator recommended)
 D:\DevTools\kube-aliases\install.cmd
@@ -49,9 +49,18 @@ If you prefer manual setup:
 
 ---
 
+## 🖨️ Printable Cheat Sheet
+
+Want a wall-friendly reference? Check out the **[printable HTML cheat sheet](kube-aliases-cheatsheet.html)** - complete with K8s humor, pro tips, and a beautiful design that looks great stapled to your monitor! 📌
+
+[👉 **View Printable Cheat Sheet**](https://cantrellr.github.io/kube-aliases/kube-aliases-cheatsheet.html)
+
+---
+
 ## 🎯 Aliases Cheat Sheet
 
 ### ⚡ Core & Verbs
+
 *The basics that'll save your sanity*
 
 | Alias | Command | Description |
